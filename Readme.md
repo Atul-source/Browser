@@ -11,7 +11,7 @@
     2. run script.sh with serving directory as argument (./script.sh serve_dir)
 
 #### On ClientSide
- 1. Open  http://127.0.0.1:9000/ in Your browser
+ 1. Open  http://you_ip_address:9000/ in Your browser
 
  ### Improvement That can be done
    Making server crossplatform & gui for serverside
